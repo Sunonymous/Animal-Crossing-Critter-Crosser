@@ -1,0 +1,92 @@
+
+.top {
+    text-align: center;
+    font-family: "Verdana";
+    color: White;
+    border: 1px solid ForestGreen;
+    background-color: LimeGreen;
+    border-style: groove;
+    border-radius: 5px;
+    margin-left: 29.5%;
+    margin-right: 29.5%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.month {
+    text-align: left;
+    font-family: "Verdana";
+    color: #000;
+    border: 1px solid ForestGreen;
+    background-color: LimeGreen;
+    border-style: groove;
+    border-radius: 45px;
+    margin-left: 29.5%;
+    margin-right: 29.5%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h3.month {
+    text-decoration: underline;
+}
+
+.note {
+    width: 750px;
+    font-family: "Verdana";
+    text-align: center;
+    border: 1px dashed #000;
+    background-color: #FFF;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    /*border: 1px solid ForestGreen;*/
+    background-color: #FFF;
+    border-style: double;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+th {
+    height: 100%;
+    /*border: 1px solid ForestGreen;
+    border-style: groove;
+    border-radius: 5px;*/
+    font-family: sans-serif;
+}
+
+tr {
+    height: 40px;
+    border: 1px solid black;
+    width: auto;
+}
+
+tr:nth-child(even) {
+    background-color: #EAAF0E;
+}
+
+tr:nth-child(odd) {
+    background-color: #FFF;
+}
+
+td {
+    font-family: "Verdana";
+    padding-left: 25px;
+    padding-right: 25px;
+    border-style: groove;
+    border-radius: 7px;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+}
