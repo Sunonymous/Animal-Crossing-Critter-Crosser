@@ -1,0 +1,81 @@
+NAME,IMAGE,PRICE,LOCATION,TIME
+Common Butterfly,NH-Icon-commonbutterfly,160,Flying,4am-7pm
+Yellow Butterfly,NH-Icon-yellowbutterfly,160,Flying,4am-7pm
+Tiger Butterfly,NH-Icon-tigerbutterfly,240,Flying,4am-7pm
+Peacock Butterfly,NH-Icon-peacockbutterfly,2500,Flying by Hybrid Flowers,4am-7pm
+Common Bluebottle,NH-Icon-commonbluebottle,300,Flying,4am-7pm
+Paper Kite Butterfly,NH-Icon-paperkitebutterfly,1000,Flying,8am-7pm
+Great Purple Emperor,NH-Icon-greatpurpleemperor,3000,Flying,4am-7pm
+Monarch Butterfly,NH-Icon-monarchbutterfly,140,Flying,4am-5pm
+Emperor Butterfly,NH-Icon-emperorbutterfly,4000,Flying,5pm-8am
+Agrias Butterfly,NH-Icon-agriasbutterfly,3000,Flying,8am-5pm
+Rajah Brooke's Birdwing,NH-Icon-rajahbrookesbirdwing,2500,Flying,8am-5pm
+Queen Alexandra's Birdwing,NH-Icon-queenalexandrasbirdwing,4000,Flying,8am-4pm
+Moth,NH-Icon-moth,130,Flying by Light,7pm-4am
+Atlas Moth,NH-Icon-atlasmoth,3000,On Trees,7pm-4am
+Madagascan Sunset Moth,NH-Icon-madagascansunsetmoth,2500,Flying,8am-4pm
+Long Locust,NH-Icon-longlocust,200,On the Ground,8am-7pm
+Migratory Locust,NH-Icon-migratorylocust,600,On the Ground,8am-7pm
+Rice Grasshopper,NH-Icon-ricegrasshopper,160,On the Ground,8am-7pm
+Grasshopper,NH-Icon-grasshopper,160,On the Ground,8am-5pm
+Cricket,NH-Icon-cricket,130,On the Ground,5pm-8am
+Bell Cricket,NH-Icon-bellcricket,430,On the Ground,5pm-8am
+Mantis,NH-Icon-mantis,430,On Flowers,8am-5pm
+Orchid Mantis,NH-Icon-orchidmantis,2400,On Flowers (White),8am-5pm
+Honeybee,NH-Icon-honeybee,200,Flying,8am-5pm
+Wasp,NH-Icon-wasp,2500,Shaking Trees,All day
+Brown Cicada,NH-Icon-browncicada,250,On Trees,8am-5pm
+Robust Cicada,NH-Icon-robustcicada,300,On Trees,8am-5pm
+Giant Cicada,NH-Icon-giantcicada,500,On Trees,8am-5pm
+Walker Cicada,NH-Icon-walkercicada,400,On Trees,8am-5pm
+Evening Cicada,NH-Icon-eveningcicada,550,On Trees,4am-8am& 4pm-7pm
+Cicada Shell,NH-Icon-cicadashell,10,On Trees,All day
+Red Dragonfly,NH-Icon-reddragonfly,180,Flying,8am-7pm
+Darner Dragonfly,NH-Icon-darnerdragonfly,230,Flying,8am-5pm
+Banded Dragonfly,NH-Icon-bandeddragonfly,4500,Flying,8am-5pm
+Damselfly,NH-Icon-damselfly,500,Flying,All day
+Firefly,NH-Icon-firefly,300,Flying,7pm-4am
+Mole Cricket,NH-Icon-molecricket,500,Underground,All day
+Pondskater,NH-Icon-pondskater,130,On Ponds and Rivers,8am-7pm
+Diving Beetle,NH-Icon-divingbeetle,800,On Ponds and Rivers,8am-7pm
+Giant Water Bug,NH-Icon-giantwaterbug,2000,On Ponds and Rivers,7pm-8am
+Stinkbug,NH-Icon-stinkbug,120,On Flowers,All day
+Man-faced Stink Bug,NH-Icon-manfacedstinkbug,1000,On Flowers,7pm-8am
+Ladybug,NH-Icon-ladybug,200,On Flowers,8am-5pm
+Tiger Beetle,NH-Icon-tigerbeetle,1500,On the Ground,All day
+Jewel Beetle,NH-Icon-jewelbeetle,2400,On Tree Stumps,All day
+Violin Beetle,NH-Icon-violinbeetle,450,On Tree Stumps,All day
+Citrus Long-horned Beetle,NH-Icon-citruslonghornedbeetle,350,On Tree Stumps,All day
+Rosalia Batesi Beetle,NH-Icon-rosaliabatesibeetle,3000,On Tree Stumps,All day
+Blue Weevil Beetle,NH-Icon-blueweevilbeetle,800,On Trees (Coconut?),All day
+Dung Beetle,NH-Icon-dungbeetle,3000,On the Ground (rolling snowballs),All day
+Earth-boring Dung Beetle,NH-Icon-earthboringdungbeetle,300,On the Ground,All day
+Scarab Beetle,NH-Icon-scarabbeetle,10000,On Trees,11pm-8am
+Drone Beetle,NH-Icon-dronebeetle,200,On Trees,All day
+Goliath Beetle,NH-Icon-goliathbeetle,8000,On Trees (Coconut),5pm-8am
+Saw Stag,NH-Icon-sawstag,2000,On Trees,All day
+Miyama Stag,NH-Icon-miyamastag,1000,On Trees,All day
+Giant Stag,NH-Icon-giantstag,10000,On Trees,11pm-8am
+Rainbow Stag,NH-Icon-rainbowstag,6000,On Trees,7pm-8am
+Cyclommatus Stag,NH-Icon-cyclommatusstag,8000,On Trees (Coconut),5pm-8am
+Golden Stag,NH-Icon-goldenstag,12000,On Trees (Coconut),5pm-8am
+Giraffe Stag,NH-Icon-giraffestag,12000,On Trees (Coconut?),5pm-8am
+Horned Dynastid,NH-Icon-horneddynastid,1350,On Trees,5pm-8am
+Horned Atlas,NH-Icon-hornedatlas,8000,On Trees (Coconut),5pm-8am
+Horned Elephant,NH-Icon-hornedelephant,8000,On Trees (Coconut),5pm-8am
+Horned Hercules,NH-Icon-hornedhercules,12000,On Trees (Coconut),5pm-8am
+Walking Stick,NH-Icon-walkingstick,600,On Trees,4am-8am& 5pm-7pm
+Walking Leaf,NH-Icon-walkingleaf,600,Under Trees Disguised as Leafs,All day
+Bagworm,NH-Icon-bagworm,600,Shaking Trees,All day
+Ant,NH-Icon-ant,80,On rotten food,All day
+Hermit Crab,NH-Icon-hermitcrab,1000,Beach disguised as Shells,7pm-8am
+Wharf Roach,NH-Icon-wharfroach,200,On Beach Rocks,All day
+Fly,NH-Icon-fly,60,On Trash Items,All day
+Mosquito,NH-Icon-mosquito,130,Flying,5pm-4am
+Flea,NH-Icon-flea,70,Villager's Heads,All day
+Snail,NH-Icon-snail,250,On Rocks (Rain),All day
+Pill Bug,NH-Icon-pillbug,250,Hitting Rocks,11pm-4pm
+Centipede,NH-Icon-centipede,300,Hitting Rocks,4pm-11pm
+Spider,NH-Icon-spider,480,Shaking Trees,7pm-8am
+Tarantula,NH-Icon-tarantula,8000,On the Ground,7pm-4am
+Scorpion,NH-Icon-scorpion,8000,On the Ground,7pm-4am

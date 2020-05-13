@@ -1,0 +1,81 @@
+NAME,IMAGE,PRICE,LOCATION,SHADOWSIZE,TIME
+Bitterling,NH-Icon-bitterling,900,River,1,All day
+Pale Chub,NH-Icon-palechub,200,River,1,9am-4pm
+Crucian Carp,NH-Icon-cruciancarp,160,River,2,All day
+Dace,NH-Icon-dace,192,River,3,4pm-9am
+Carp,NH-Icon-carp,300,Pond,4,All day
+Koi,NH-Icon-koi,4000,Pond,4,4pm-9am
+Goldfish,NH-Icon-goldfish,1300,Pond,1,All day
+Pop-eyed Goldfish,NH-Icon-popeyedgoldfish,1300,Pond,1,9am-4pm
+Ranchu Goldfish,NH-Icon-ranchugoldfish,4500,Pond,2,9am-4pm
+Killifish,NH-Icon-killifish,300,Pond,1,All day
+Crawfish,NH-Icon-crawfish,200,Pond,2,All day
+Soft-shelled Turtle,NH-Icon-softshelledturtle,3750,River,4,4pm-9am
+Snapping Turtle,NH-Icon-snappingturtle,5000,River,5,9pm-4am
+Tadpole,NH-Icon-tadpole,100,Pond,1,All day
+Frog,NH-Icon-frog,120,Pond,2,All day
+Freshwater Goby,NH-Icon-freshwatergoby,400,River,2,4pm-9am
+Loach,NH-Icon-loach,400,River,2,All day
+Catfish,NH-Icon-catfish,800,Pond,4,4pm-9am
+Giant Snakehead,NH-Icon-giantsnakehead,5500,Pond,5,9am-4pm
+Bluegill,NH-Icon-bluegill,180,River,2,9am-4pm
+Yellow Perch,NH-Icon-yellowperch,300,River,3,All day
+Black Bass,NH-Icon-blackbass,320,River,4,All day
+Tilapia,NH-Icon-tilapia,800,River,3,All day
+Pike,NH-Icon-pike,1800,River,5,All day
+Pond Smelt,NH-Icon-pondsmelt,500,River,2,All day
+Sweetfish,NH-Icon-sweetfish,900,River,3,All day
+Cherry Salmon,NH-Icon-cherrysalmon,800,River (Clifftop),3,4pm-9am
+Char,NH-Icon-char,3800,River (Clifftop) Pond,3,4pm-9am
+Golden Trout,NH-Icon-goldentrout,15000,River (Clifftop),3,4pm-9am
+Stringfish,NH-Icon-stringfish,15000,River (Clifftop),5,4pm-9am
+Salmon,NH-Icon-salmon,700,River (Mouth),4,All day
+King Salmon,NH-Icon-kingsalmon,1800,River (Mouth),6,All day
+Mitten Crab,NH-Icon-mittencrab,2000,River,2,4pm-9am
+Guppy,NH-Icon-guppy,1300,River,1,9am-4pm
+Nibble Fish,NH-Icon-nibblefish,1500,River,1,9am-4pm
+Angelfish,NH-Icon-angelfish,3000,River,2,4pm-9am
+Betta,NH-Icon-betta,2500,River,2,9am-4pm
+Neon Tetra,NH-Icon-neontetra,500,River,1,9am-4pm
+Rainbowfish,NH-Icon-rainbowfish,800,River,1,9am-4pm
+Piranha,NH-Icon-piranha,2500,River,2,9am-4pm & 9pm-4am
+Arowana,NH-Icon-arowana,10000,River,4,4pm-9am
+Dorado,NH-Icon-dorado,15000,River,5,4am-9pm
+Gar,NH-Icon-gar,6000,Pond,6,4pm-9am
+Arapaima,NH-Icon-arapaima,10000,River,6,4pm-9am
+Saddled Bichir,NH-Icon-saddledbichir,4000,River,4,9pm-4am
+Sturgeon,NH-Icon-sturgeon,10000,River (Mouth),6,All day
+Sea Butterfly,NH-Icon-seabutterfly,1000,Sea,1,All day
+Seahorse,NH-Icon-seahorse,1100,Sea,1,All day
+Clownfish,NH-Icon-clownfish,650,Sea,1,All day
+Surgeonfish,NH-Icon-surgeonfish,1000,Sea,2,All day
+Butterfly Fish,NH-Icon-butterflyfish,1000,Sea,2,All day
+Napoleonfish,NH-Icon-napoleonfish,10000,Sea,6,4am-9pm
+Zebra Turkeyfish,NH-Icon-zebraturkeyfish,500,Sea,3,All day
+Blowfish,NH-Icon-blowfish,5000,Sea,3,9pm-4am
+Puffer Fish,NH-Icon-pufferfish,250,Sea,3,All day
+Anchovy,NH-Icon-anchovy,200,Sea,2,4am-9pm
+Horse Mackerel,NH-Icon-horsemackerel,150,Sea,2,All day
+Barred Knifejaw,NH-Icon-barredknifejaw,5000,Sea,3,All day
+Sea Bass,NH-Icon-seabass,400,Sea,5,All day
+Red Snapper,NH-Icon-redsnapper,3000,Sea,4,All day
+Dab,NH-Icon-dab,300,Sea,3,All day
+Olive Flounder,NH-Icon-oliveflounder,800,Sea,5,All day
+Squid,NH-Icon-squid,500,Sea,3,All day
+Moray Eel,NH-Icon-morayeel,2000,Sea,Narrow,All day
+Ribbon Eel,NH-Icon-ribboneel,600,Sea,Narrow,All day
+Tuna,NH-Icon-tuna,7000,Pier,6,All day
+Blue Marlin,NH-Icon-bluemarlin,10000,Pier,6,All day
+Giant Trevally,NH-Icon-gianttrevally,4500,Pier,5,All day
+Mahi-mahi,NH-Icon-mahimahi,6000,Pier,5,All day
+Ocean Sunfish,NH-Icon-oceansunfish,4000,Sea,6 (Fin),4am-9pm
+Ray,NH-Icon-ray,3000,Sea,5,4am-9pm
+Saw Shark,NH-Icon-sawshark,12000,Sea,6 (Fin),4pm-9am
+Hammerhead Shark,NH-Icon-hammerheadshark,8000,Sea,6 (Fin),4pm-9am
+Great White Shark,NH-Icon-greatwhiteshark,15000,Sea,6 (Fin),4pm-9am
+Whale Shark,NH-Icon-whaleshark,13000,Sea,6 (Fin),All day
+Suckerfish,NH-Icon-suckerfish,1500,Sea,4 (Fin),All day
+Football Fish,NH-Icon-footballfish,2500,Sea,4,4pm-9am
+Oarfish,NH-Icon-oarfish,9000,Sea,6,All day
+Barreleye,NH-Icon-barreleye,15000,Sea,2,9pm-4am
+Coelacanth,NH-Icon-coelacanth,15000,Sea,6,All day
